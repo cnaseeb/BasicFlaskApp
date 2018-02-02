@@ -16,4 +16,4 @@ from bokeh.embed import components
 
 script, div = components(plot)
 
-return render_template('graph.html, script=script, div=div)
+return render_template('graph.html', script=script, div=div)

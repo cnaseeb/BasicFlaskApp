@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import requests
 
 api_url = 'https://www.quandl.com/api/v1/datasets/WIKI/%s.json'% stock

@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #This is a very basic hello World file for flask which when ran gives you a hellow world messgae
 
 from flask import Flask
